@@ -1,0 +1,8 @@
+div.text {
+  
+  padding: 30px;
+}
+  
+h2.wireframe {
+  padding-left: 30px;
+}
