@@ -1,0 +1,35 @@
+# Thepen
+<section>
+
+  
+  <div class="text">
+   <h1>
+    <b>This is a fun parallax project</b>
+    </h1>
+  </div>
+  
+  <h2 class="wireframe">
+  Here is a bit of wireframe and project explanation 
+    </h2>
+
+  </header>
+  </section>
+
+<div class="rest">
+  
+  <p class="text">
+    This project is a reproduction of the first parallax project with a slight twist. Instead of using pictures the project uses Typographic images to create a well known phrase. 
+    This project uses three colors:
+    <div class="colors">
+      Black: #00000
+      White: #fffff
+      Green: 00f10a
+      
+      
+  </div>
+    
+  There are two sections to this project. The top section includes the footer(which is the cover) and the bottom section include the images which will overlay the cover
+    
+  </p>
+  
+</div>
